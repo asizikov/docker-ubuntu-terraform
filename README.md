@@ -117,7 +117,7 @@ $ cd unpack_layer
 $ tree
 ```
 
-This will print the lart gree with all the files belong to the layer, and we can scroll down to find our `terraform` executable. Lovely.
+This will print the large tree with all the files which belong to the layer, and we can scroll all the way down to find our `terraform` executable. Lovely.
 
 Make sure to take a look there and think how can we make this image smaller.
 
